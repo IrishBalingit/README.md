@@ -7,5 +7,5 @@ what
 - High School: Angeles City National High School (junior and Senior High School)
 - Elementary: Edilberto M. Ganzon Elementary School
 ## My Projects
-Midterm Lab Task 1:
-Midterm Lab Task 2:
+- Midterm Lab Task 1:
+- Midterm Lab Task 2:
