@@ -7,5 +7,5 @@ I’m Irish Balingit from Purok 2, Barangay Anunas, Angeles City. I have a small
 - High School: Angeles City National High School (junior and Senior High School)
 - Elementary: Edilberto M. Ganzon Elementary School
 ## My Projects
-- Midterm Lab Task 1:
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](
 - Midterm Lab Task 2:
