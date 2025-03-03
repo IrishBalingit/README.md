@@ -1,4 +1,4 @@
-# Midterm Task 1
+# Midterm Task 1 - Data Cleaning and Preparation using Excel
 For this task we are given a flat data from (see rawfile) and we are task to perform Data Cleaning and Preparation
 ## STEP 1 Data Cleaning Process
 - Load the raw file
