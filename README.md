@@ -8,4 +8,4 @@ I’m Irish Balingit from Purok 2, Barangay Anunas, Angeles City. I have a small
 - Elementary: Edilberto M. Ganzon Elementary School
 ## My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/task1.md)
-- Midterm Lab Task 2:
+- Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]()
