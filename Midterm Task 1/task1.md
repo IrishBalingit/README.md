@@ -17,6 +17,7 @@ For this task we are given a flat data from (see rawfile) and we are task to per
 <img src="Images/cleanedData.png" alt="Alt Text" width="400" height="300">
 
 ## Here's the Physical Data Model
+<img src="Images/cleanedData.png" alt="Alt Text" width="400" height="300">
 
 
 
