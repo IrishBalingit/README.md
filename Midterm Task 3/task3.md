@@ -19,9 +19,6 @@
 6. Customized the Dashboard
 - Applied design and color settings to improve visual appeal and readability.
 
-## Excel Ouput:
-Midterm Lab Task 3: Creating Pivot Table and Dashboard
+#Final output (screenshot of the Dashboard):
 
-Final output (screenshot of the Dashboard):
-
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="images/Dashboard.PNG" alt="Alt Text" width="900" height="600">
