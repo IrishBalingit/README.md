@@ -13,4 +13,4 @@ I’m Irish Balingit from Purok 2, Barangay Anunas, Angeles City. I have a small
 - Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/IrishBalingit/README.md/blob/main/Midterm%20Task%203/task3.md)
 - Final Lab Task 1: [MySQL Basics]
 - Final Lab Task 2: [Transforming ER into Relational Tables]
-- Final Lab Task #: [Table Manipulation]
+- Final Lab Task 3: [Table Manipulation]
