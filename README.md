@@ -11,6 +11,6 @@ I’m Irish Balingit from Purok 2, Barangay Anunas, Angeles City. I have a small
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/IrishBalingit/README.md/blob/main/Midterm%20Task%201/task1.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/IrishBalingit/README.md/blob/main/Midterm%20task%202/task2.md)
 - Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/IrishBalingit/README.md/blob/main/Midterm%20Task%203/task3.md)
-- Final Lab Task 1: [MySQL Basics]
+- Final Lab Task 1: [MySQL Basics](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task1/README.md)
 - Final Lab Task 2: [Transforming ER into Relational Tables]
 - Final Lab Task 3: [Table Manipulation]
