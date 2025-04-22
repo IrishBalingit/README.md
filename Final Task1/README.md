@@ -13,26 +13,26 @@ This task involves designing and implementing a MySQL database for an event mana
 * Write SQL queries: Develop MySQL query statements to interact with the database.
 
 ## Step 3: MySQL Query Statements (SQL Commands)
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/code1.PNG" alt="Alt Text" width="500" height="400">
 
 ## Step 4: Table Structure Screenshots
 ### Events Table:
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/eventstable1.png" alt="Alt Text" width="600" height="300">
 
 ### Attendees Table:
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/attendees1.png" alt="Alt Text" width="600" height="300">
 
 ### Event_Attendees Table:
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/eventattendees1.png" alt="Alt Text" width="600" height="300">
 
 ### Event_Sponsors Table:
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/eventsponsor1.png" alt="Alt Text" width="600" height="300">
 
 ## Step 5: ER Diagram Representation
-<img src="" alt="Alt Text" width="400" height="300">
+<img src="image/ConIrish.PNG" alt="Alt Text" width="500" height="400">
 
 ## Step 6: SQL Copy of the Database
 
-Download the complete SQL file here: Event Management
+Download the complete SQL file here: [Event Management](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task1/event%20management.sql)
 
 This documatation provides a structure and detailed guide for implementing a MySQL databse for event management.
