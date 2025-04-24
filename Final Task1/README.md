@@ -33,6 +33,5 @@ This task involves designing and implementing a MySQL database for an event mana
 
 ## Step 6: SQL Copy of the Database
 
-Download the complete SQL file here: [Event Management](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task1/event%20management.sql)
+ [Event Management](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task1/event%20management.sql)
 
-This documatation provides a structure and detailed guide for implementing a MySQL databse for event management.
