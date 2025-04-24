@@ -1,4 +1,4 @@
-# Finals Task 2 – Converting ER Model to Relational Tables
+# Finals Task 2 – Transforming ER Model to Relational Tables
 ‎
 ‎In this task, you’ll create a MySQL database from an ER model that tracks student assignment submissions. You’ll make tables for students, assignments, and submissions. Each table will have keys to keep everything connected properly and make sure the data stays accurate.
 ‎
