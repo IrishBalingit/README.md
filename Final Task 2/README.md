@@ -28,29 +28,29 @@
 
 ### MySQL COMMANDS
 
-<img src="" alt="Alt Text" width="600" height="300">
+<img src="images/task2_code" alt="Alt Text" width="600" height="300">
 
 ## Outputs
 ### Table Structure Screenshots
 
 Student Table:
 
-<img src="" alt="Alt Text" width="600" height="300">
+<img src="images/task2_1.png" alt="Alt Text" width="600" height="300">
 
 Assignment Table:
 
-<img src="" alt="Alt Text" width="600" height="300">
+<img src="images/task2_2.png" alt="Alt Text" width="600" height="300">
 
 Submission Table:
 
-<img src="" alt="Alt Text" width="600" height="300">
+<img src="images/task2_3.png" alt="Alt Text" width="600" height="300">
 
 ### ER Diagram Representation
 
-<img src="" alt="Alt Text" width="600" height="300">
+<img src="images/task2_ERD" alt="Alt Text" width="600" height="300">
 
 ### SQL Copy of the Database
-Download the complete SQL file here: [Transforming ER Model to Ralational Tables]
+Download the complete SQL file here: [Transforming ER Model to Ralational Tables](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%202/Transforming%20ER%20Model%20to%20Ralational%20Tables)
 
 
 
