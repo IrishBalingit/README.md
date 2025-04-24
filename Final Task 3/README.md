@@ -31,7 +31,8 @@
 * Altered the product_name column to increase its maximum length to 120 characters using ALTER TABLE.
 
 ### MySQL COMMANDS
-<img src="images/task2_1.png" alt="Alt Text" width="600" height="300">
+
+<img src="images/Task3_1.png" alt="Alt Text" width="600" height="300">
 
 
 ## Outputs
@@ -39,17 +40,21 @@
 
 
 Product Table:
-<img src="images/task2_1.png" alt="Alt Text" width="600" height="300">
+
+<img src="images/Task3_2.png" alt="Alt Text" width="600" height="300">
 ‎
 
-Inserted in Product Table:
-<img src="images/task2_1.png" alt="Alt Text" width="600" height="300">
+Insert into Product Table:
+
+<img src="images/Task3_3.png" alt="Alt Text" width="600" height="300">
 ‎
 
 ### ER Diagram Representation
-<img src="images/task2_1.png" alt="Alt Text" width="600" height="300">
+
+<img src="images/task3_ERD" alt="Alt Text" width="600" height="300">
 ‎
 
 ### SQL Copy of the Database
-[Table Manipulation](
+
+[Table Manipulation](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%203/Table%20Manipulation)
 ‎
