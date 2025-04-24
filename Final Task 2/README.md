@@ -50,7 +50,7 @@ Submission Table:
 <img src="images/task2_ERD" alt="Alt Text" width="600" height="300">
 
 ### SQL Copy of the Database
-Download the complete SQL file here: [Transforming ER Model to Ralational Tables](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%202/Transforming%20ER%20Model%20to%20Ralational%20Tables)
+ [Transforming ER Model to Ralational Tables](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%202/Transforming%20ER%20Model%20to%20Ralational%20Tables)
 
 
 
