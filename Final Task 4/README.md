@@ -40,8 +40,25 @@ Perform the following SELECT statements on the table:
 ‎
 2. ‎Retrieve the department names along with the average salary for each department.
 
-## ‎Outputs:
+## MySQL Command
+<img src="images/code1_task4.PNG" alt="Alt Text" width="600" height="300">
 
+## ‎Outputs:
+EmployeeSalaries Table
+
+<img src="images/Prob1_task4_1.PNG" alt="Alt Text" width="600" height="300">
+
+Employeesalaries (highest to lowest)
+
+<img src="images/Prob1_task4_2.PNG" alt="Alt Text" width="600" height="300">
+
+Avg salary each department
+
+<img src="images/Prob1_task4_3.PNG" alt="Alt Text" width="600" height="300">
+
+Total salary each department
+
+<img src="images/Prob1_task4_4.PNG" alt="Alt Text" width="600" height="300">
 
 
 ### Problem 2. Consider a table named EmployeeData that stores information about employees in a company. The table has the following fields:
@@ -81,4 +98,29 @@ Perform the following SELECT statements on the table:
 * ('Amanda Harris', 'Sales', 128000.00, '2018-09-30', 1);
 * '2023-06-15', 'GeoSensor');
 
+## MySQL Command
+<img src="images/code2_task4.PNG" alt="Alt Text" width="600" height="300">
+
 ## Outputs:
+EmployeeDate Table
+
+<img src="images/Prob2_task4_1.PNG" alt="Alt Text" width="600" height="300">
+
+Employee paying salary (highest to lowest)
+
+<img src="images/Prob2_task4_2.PNG" alt="Alt Text" width="600" height="300">
+
+Avg salary exceeds $70,000
+
+<img src="images/Prob2_task4_3.PNG" alt="Alt Text" width="600" height="300">
+
+Employee earning salary greater  to $100,000
+
+<img src="images/Prob2_task4_4.PNG" alt="Alt Text" width="600" height="300">
+
+Number of Employee
+
+<img src="images/Prob2_task4_5.PNG" alt="Alt Text" width="600" height="300">
+
+### SQL Copy of the Datebase
+[Using SELECT Statements](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%204/Using%20SELECT%20Statement.sql)
