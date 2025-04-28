@@ -14,4 +14,4 @@ I’m Irish Balingit from Purok 2, Barangay Anunas, Angeles City. I have a small
 - Final Lab Task 1: [MySQL Basics](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task1/README.md)
 - Final Lab Task 2: [Transforming ER into Relational Tables](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%202/README.md)
 - Final Lab Task 3: [Table Manipulation](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%203/README.md)
-- Final Lab Task 4: [Using SELECT Statements](https://github.com/IrishBalingit/README.md/tree/main/Final%20Task%204)
+- Final Lab Task 4: [Using SELECT Statements]
