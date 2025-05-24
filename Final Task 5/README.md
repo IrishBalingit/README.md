@@ -135,4 +135,27 @@ Instructions:
 * SELECT CONCAT(first_name, “ ”, last_name) AS full_name
 * FROM employees;
 
-## Step 3: 
+## Step 3: Display all vendor products
+
+<img src="images/view.1.PNG" alt="Alt Text" width="600" height="300">
+
+## Step 4: ‎Call the storage procedure to retrieve product to a specific vendor
+
+<img src="images/view.2.PNG" alt="Alt Text" width="600" height="300">
+
+## Step 5: Call the function to get the product description and price
+
+<img src="images/view.3.PNG" alt="Alt Text" width="600" height="300">
+
+## Step 6: ‎Call the stored procedure to update the vendor name
+
+<img src="images/view.4.PNG" alt="Alt Text" width="600" height="300">
+
+## Step 7: Create a view to display products within the price range 100-150
+
+<img src="images/view.5.PNG" alt="Alt Text" width="600" height="300">
+
+## Copy of the Database:
+[Using Stored Procedures Views and Function](
+
+‎
