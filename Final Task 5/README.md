@@ -156,6 +156,6 @@ Instructions:
 <img src="images/view.5.PNG" alt="Alt Text" width="600" height="300">
 
 ## Copy of the Database:
-[Using Stored Procedures Views and Function](
+[Using Stored Procedures Views and Function](https://github.com/IrishBalingit/README.md/blob/main/Final%20Task%205/images/co9de.sql)
 
 ‎
